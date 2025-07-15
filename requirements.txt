@@ -1,4 +1,5 @@
 tensorflow
+tensorflowboard
 pandas
 numpy
 scikit-learn
